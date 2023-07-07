@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Tarkov help app
+-  📫 How to reach me: https://www.linkedin.com/in/max-pavlenko-se/
+  
 <!--
 **Maxsos133/Maxsos133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
